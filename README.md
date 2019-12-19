@@ -8,5 +8,5 @@
 - open File Explorer with created folder
 
 ### Install
-- install the macro
-- customize Ribbon and create Toolbar button to run the macro
+- install the macro (see required reference in the macro file)
+- customize Ribbon and create a Toolbar button to run the macro
